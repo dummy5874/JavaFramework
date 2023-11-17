@@ -1,0 +1,15 @@
+com\ecommerce\pages\UserRegistrationConfirmationPage.class
+com\ecommerce\utility\MyRetry.class
+com\ecommerce\pages\AddressBookListPage.class
+com\ecommerce\pages\PlaceOrderPage.class
+com\ecommerce\pages\CheckoutPage.class
+com\ecommerce\pages\LoginPage.class
+com\ecommerce\pages\UserPage.class
+com\ecommerce\pages\SearchPage.class
+com\ecommerce\utility\UtilTest.class
+com\ecommerce\pages\AddAddressPage.class
+com\ecommerce\base\Base.class
+com\ecommerce\pages\RegisterPage.class
+com\ecommerce\pages\MonitorPage.class
+com\ecommerce\utility\Listener.class
+com\ecommerce\pages\HeadersPage.class

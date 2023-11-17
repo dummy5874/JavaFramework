@@ -1,0 +1,320 @@
+2023-11-06 13:13:06 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 13:13:07 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 13:13:21 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 13:13:21 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 13:13:40 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 13:13:42 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 13:15:55 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 13:16:09 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 13:16:09 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 13:16:17 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 13:16:18 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 13:50:10 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 13:51:49 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 13:51:51 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 13:51:58 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 13:51:58 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 13:52:05 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 13:52:06 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 14:08:08 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 14:08:09 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 14:08:16 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 14:08:16 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 14:08:22 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 14:08:23 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 14:10:32 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 14:10:45 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 14:10:45 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 14:10:51 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 14:10:52 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 14:12:43 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 14:12:45 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 14:12:54 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 14:12:54 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 14:13:02 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 14:13:03 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 14:14:56 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 14:14:57 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 14:15:03 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 14:15:04 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 14:15:11 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 14:15:12 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 18:54:28 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 18:54:29 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 18:54:37 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 18:54:37 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 18:54:47 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 18:54:48 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-06 18:56:36 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-06 18:56:37 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-06 18:56:44 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-06 18:56:44 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-06 18:56:56 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-06 18:56:57 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 12:25:59 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 12:26:02 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 12:26:13 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 12:26:13 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 12:26:21 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 12:26:23 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 12:31:36 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 12:31:38 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 12:31:52 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 12:31:52 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 12:32:00 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 12:32:01 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 12:35:04 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 12:35:06 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 12:35:14 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 12:35:14 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 12:35:23 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 12:35:25 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 12:41:57 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 12:41:59 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 12:42:09 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 12:42:09 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 12:42:19 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 12:42:20 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 14:06:41 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 14:06:43 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 14:06:50 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 14:06:50 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 14:06:58 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 14:07:05 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-07 16:33:04 INFO  SeleniumJava:35 - loginIntoApplicationTest : login page is displayed
+  2023-11-07 16:33:06 INFO  SeleniumJava:38 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-07 16:33:20 INFO  SeleniumJava:44 - checkRegisterationSection : login page is displayed
+  2023-11-07 16:33:20 INFO  SeleniumJava:46 - checkRegisterationSection : Register Account section is displayed
+  2023-11-07 16:33:31 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-07 16:33:32 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-08 20:00:13 INFO  SeleniumJava:36 - loginIntoApplicationTest : login page is displayed
+  2023-11-08 20:00:15 INFO  SeleniumJava:39 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-08 20:00:21 INFO  SeleniumJava:46 - checkRegisterationSection : login page is displayed
+  2023-11-08 20:00:21 INFO  SeleniumJava:48 - checkRegisterationSection : Register Account section is displayed
+  2023-11-08 20:00:28 INFO  SeleniumJava:55 - Invalid : login page is displayed
+  2023-11-08 20:00:29 INFO  SeleniumJava:57 - Invalid : Error Message is displayed for invalid login
+  2023-11-09 13:29:46 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-09 13:29:48 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-09 13:29:56 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-09 13:29:56 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-09 13:30:04 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-09 13:30:05 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-09 13:30:51 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-09 13:30:52 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-09 13:30:59 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-09 13:31:00 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-09 13:31:07 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-09 13:31:07 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-09 13:31:20 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-09 13:31:21 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-09 13:33:25 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-09 13:33:26 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-09 13:33:34 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-09 13:33:34 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-09 13:33:41 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-09 13:33:42 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-09 18:59:00 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-09 18:59:01 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-09 18:59:07 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-09 18:59:07 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-09 18:59:13 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-09 18:59:14 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-10 12:00:43 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-10 12:00:45 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-10 12:01:07 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-10 12:01:07 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-10 12:01:26 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-10 12:01:27 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-10 15:18:50 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-10 15:18:51 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-10 15:18:56 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-10 15:18:57 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-10 15:19:03 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-10 15:19:04 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-10 16:20:10 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-10 16:20:11 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-10 16:20:17 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-10 16:20:17 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-10 16:20:23 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-10 16:20:24 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-10 18:41:17 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-10 18:41:19 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-10 18:41:26 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-10 18:41:26 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-10 18:41:34 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-10 18:41:34 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-10 18:46:59 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-10 18:47:00 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-10 18:47:07 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-10 18:47:07 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-10 18:47:13 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-10 18:47:14 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-13 16:56:50 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-13 16:56:52 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-13 16:56:59 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-13 16:56:59 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-13 16:57:07 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-13 16:57:08 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-13 17:24:50 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-13 17:24:51 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-13 17:24:59 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-13 17:24:59 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-13 17:25:07 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-13 17:25:08 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-13 17:36:08 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-13 17:36:10 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-13 17:36:18 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-13 17:36:18 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-13 17:36:24 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-13 17:36:25 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-13 17:48:13 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-13 17:48:15 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-13 17:48:30 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-13 17:48:31 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-13 17:48:44 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-13 17:48:44 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 11:01:35 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 11:01:38 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 11:01:56 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 11:01:56 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 11:02:13 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 11:02:14 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 11:30:20 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 11:30:24 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 11:30:37 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 11:30:37 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 11:30:47 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 11:30:48 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 11:59:13 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 11:59:15 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 11:59:27 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 11:59:27 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 11:59:37 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 11:59:39 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 14:58:36 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 14:58:39 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 14:58:50 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 14:58:50 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 14:59:02 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 14:59:03 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 15:05:02 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 15:05:05 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 15:05:15 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 15:05:15 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 15:05:24 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 15:05:26 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-15 22:09:14 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-15 22:09:17 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-15 22:09:29 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-15 22:09:30 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-15 22:09:40 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-15 22:09:41 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-16 18:05:15 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-16 18:05:18 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-16 18:05:30 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-16 18:05:30 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-16 18:05:40 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-16 18:05:41 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-16 18:10:29 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-16 18:10:31 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-16 18:16:19 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-16 18:16:21 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-16 19:06:09 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-16 19:06:11 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-16 19:06:23 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-16 19:06:23 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-16 19:06:36 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-16 19:06:37 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-16 19:38:28 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-16 19:38:29 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-16 19:38:45 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-16 19:38:45 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-16 19:38:58 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-16 19:38:59 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 11:23:36 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 11:23:39 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 11:42:37 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 11:42:39 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 11:42:57 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-17 11:42:57 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 11:43:20 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-17 11:43:21 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 12:25:37 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 12:25:40 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 12:26:00 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-17 12:26:01 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 12:26:15 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-17 12:26:16 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 12:33:55 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 12:33:57 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 12:34:15 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-17 12:34:15 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 15:38:42 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 15:38:45 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 15:38:55 INFO  SeleniumJava:47 - checkRegisterationSection : login page is displayed
+  2023-11-17 15:38:55 INFO  SeleniumJava:49 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 15:39:05 INFO  SeleniumJava:56 - Invalid : login page is displayed
+  2023-11-17 15:39:06 INFO  SeleniumJava:58 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 16:02:13 INFO  SeleniumJava:37 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 16:02:16 INFO  SeleniumJava:40 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 16:40:13 INFO  SeleniumJava:31 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 16:40:34 INFO  SeleniumJava:41 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:40:52 INFO  SeleniumJava:41 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:41:13 INFO  SeleniumJava:50 - Invalid : login page is displayed
+  2023-11-17 16:44:34 INFO  SeleniumJava:31 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 16:44:35 INFO  SeleniumJava:34 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 16:44:56 INFO  SeleniumJava:42 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:44:56 INFO  SeleniumJava:44 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 16:45:13 INFO  SeleniumJava:52 - Invalid : login page is displayed
+  2023-11-17 16:45:14 INFO  SeleniumJava:54 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 16:50:09 INFO  SeleniumJava:30 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 16:50:22 INFO  SeleniumJava:40 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:50:36 INFO  SeleniumJava:40 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:50:56 INFO  SeleniumJava:49 - Invalid : login page is displayed
+  2023-11-17 16:52:19 INFO  SeleniumJava:30 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 16:52:20 INFO  SeleniumJava:33 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 16:52:30 INFO  SeleniumJava:40 - checkRegisterationSection : login page is displayed
+  2023-11-17 16:52:31 INFO  SeleniumJava:42 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 16:52:41 INFO  SeleniumJava:49 - Invalid : login page is displayed
+  2023-11-17 16:52:42 INFO  SeleniumJava:51 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 17:09:17 INFO  SeleniumJava:30 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 17:09:18 INFO  SeleniumJava:33 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 17:09:36 INFO  SeleniumJava:40 - checkRegisterationSection : login page is displayed
+  2023-11-17 17:09:36 INFO  SeleniumJava:42 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 17:09:54 INFO  SeleniumJava:49 - Invalid : login page is displayed
+  2023-11-17 17:09:55 INFO  SeleniumJava:51 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 17:10:12 INFO  SeleniumJava:43 - checkUserPageLinks : Address Book link is displayed.
+  2023-11-17 17:10:27 INFO  SeleniumJava:53 - validateHeaderLinks : header links are same.
+  2023-11-17 17:10:39 INFO  SeleniumJava:63 - validateLogo : logo is displayed after login.
+  2023-11-17 17:10:54 INFO  SeleniumJava:61 - addAddressFields : Address record is added successfully.
+  2023-11-17 17:11:12 INFO  SeleniumJava:61 - addAddressFields : Address record is added successfully.
+  2023-11-17 17:11:25 INFO  SeleniumJava:38 - userNavigationAddAddressPage : Add Address page is loaded successfully.
+  2023-11-17 17:15:20 INFO  SeleniumJava:34 - checkRegisterUserNavigation : Register page is loaded successfully. 
+  2023-11-17 17:15:36 INFO  SeleniumJava:46 - validateUserRegisteration : Your account is registered successfully. 
+  2023-11-17 17:36:49 INFO  SeleniumJava:42 - checkMonitorsCount : Monitor products count is correct
+  2023-11-17 17:37:12 INFO  SeleniumJava:33 - navigateToMonitorsPage : Monitor page is loaded successfully
+  2023-11-17 17:40:00 INFO  SeleniumJava:44 - deleteAddressRecord :  Address record is deleted successfully
+  2023-11-17 17:40:18 INFO  SeleniumJava:44 - deleteAddressRecord :  Address record is deleted successfully
+  2023-11-17 17:43:20 INFO  SeleniumJava:38 - validateSearchedProductsName : search functionality is working fine.
+  2023-11-17 17:49:24 INFO  SeleniumJava:50 - placeOrder : 02 products are placed successfully
+  2023-11-17 17:50:24 INFO  SeleniumJava:30 - loginIntoApplicationTest : login page is displayed
+  2023-11-17 17:50:25 INFO  SeleniumJava:33 - loginIntoApplicationTest : User is successfully able to login
+  2023-11-17 17:50:36 INFO  SeleniumJava:40 - checkRegisterationSection : login page is displayed
+  2023-11-17 17:50:36 INFO  SeleniumJava:42 - checkRegisterationSection : Register Account section is displayed
+  2023-11-17 17:50:46 INFO  SeleniumJava:49 - Invalid : login page is displayed
+  2023-11-17 17:50:48 INFO  SeleniumJava:51 - Invalid : Error Message is displayed for invalid login
+  2023-11-17 17:51:04 INFO  SeleniumJava:43 - checkUserPageLinks : Address Book link is displayed.
+  2023-11-17 17:51:25 INFO  SeleniumJava:53 - validateHeaderLinks : header links are same.
+  2023-11-17 17:51:40 INFO  SeleniumJava:63 - validateLogo : logo is displayed after login.
+  2023-11-17 17:51:57 INFO  SeleniumJava:61 - addAddressFields : Address record is added successfully.
+  2023-11-17 17:52:16 INFO  SeleniumJava:61 - addAddressFields : Address record is added successfully.
+  2023-11-17 17:52:31 INFO  SeleniumJava:38 - userNavigationAddAddressPage : Add Address page is loaded successfully.
+  2023-11-17 17:52:47 INFO  SeleniumJava:34 - checkRegisterUserNavigation : Register page is loaded successfully. 
+  2023-11-17 17:53:03 INFO  SeleniumJava:46 - validateUserRegisteration : Your account is registered successfully. 
+  2023-11-17 17:53:15 INFO  SeleniumJava:42 - checkMonitorsCount : Monitor products count is correct
+  2023-11-17 17:53:27 INFO  SeleniumJava:33 - navigateToMonitorsPage : Monitor page is loaded successfully
+  2023-11-17 17:53:44 INFO  SeleniumJava:44 - deleteAddressRecord :  Address record is deleted successfully
+  2023-11-17 17:54:02 INFO  SeleniumJava:44 - deleteAddressRecord :  Address record is deleted successfully
+  2023-11-17 17:54:15 INFO  SeleniumJava:38 - validateSearchedProductsName : search functionality is working fine.
+  2023-11-17 17:54:38 INFO  SeleniumJava:50 - placeOrder : 02 products are placed successfully
+  
